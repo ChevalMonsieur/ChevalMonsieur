@@ -3,7 +3,7 @@
 👋 Hey people, My name is Justin Hurson, even if Github knows me as ``ChevalMonsieur``. I'm a student in computer science at the <i>IUT de Bordeaux</i> (France),
 where I'm in 2nd year of a bachelor's degree. 
 <br><br>💻 I work a lot on solo projects, that turn out very frequently to be ``game dev projects``. At the moment, I have 2 projects on the table, a spaceship and a car game.
-If you want to see what I do, have a look at my <a href="mrcheval.itch.io"> <b>Itch.io</b></a> page to test some of the games I create in my free time.
+If you want to see what I do, have a look at my <a href="https://mrcheval.itch.io"> <b>Itch.io</b></a> page to test some of the games I create in my free time.
 <br><br>🌍I am currently looking for an ``internship`` abroad of 8 to 10 weeks, the countries where I would love to make my internship are the <b>USA</b>, <b>Canada</b> and <b>Australia</b>.
 An internship in <b>Japan</b> would also be great but I can only speak English.
 <br><br> 📫 Feel free to contact me (bottom page) if ever you feel interested in taking me in your company, or for any other reason !
