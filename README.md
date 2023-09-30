@@ -81,7 +81,8 @@ Discord : mr_cheval
 
 
 ### My projects are on :
+Portfolio : https://chevalmonsieur.github.io
 
-Github : this page pretty much
+Github : https://github.com/ChevalMonsieur
 
 Itch.io : https://mrcheval.itch.io
