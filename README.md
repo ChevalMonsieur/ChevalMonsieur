@@ -53,7 +53,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 ``Blender`` ``Aseprite`` ``Krita`` ``Photoshop Mix`` ``Paint`` ``Canva``
 
 ### the ones I am learning/have the basics
-``C/C++`` ``JavaScript`` ``SCSS``
+``C/C++`` ``JavaScript`` ``SCSS`` ``Assembly``
  
 ``ADO Entity Framework`` ``Maven`` 
 
