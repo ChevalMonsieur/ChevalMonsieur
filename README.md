@@ -71,7 +71,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 # Links
 
 ### You can contact me on :
-Linkedin : <a href=" https://www.linkedin.com/in/justin-hurson-0794b1253/"> Justin HURSON </a>
+Linkedin : <a href="https://www.linkedin.com/in/justin-hurson-0794b1253/"> Justin HURSON </a>
 
 Instagram : <a href="https://www.instagram.com/cheval_monsieur/"> cheval_monsieur
 
