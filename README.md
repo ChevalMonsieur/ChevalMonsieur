@@ -44,7 +44,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 # Languages/Tools
 
 ### the ones I know
-``C#`` ``Java`` ``Python`` ``Bash`` ``SQL`` ``PowerShell`` ``HTML/CSS`` ``Markdown``
+``C#`` ``Java`` ``Python`` ``Bash`` ``SQL`` ``PowerShell`` ``HTML/CSS`` ``Markdown`` ``JavaScript``
 
 ``.NET`` ``WinForms`` ``Bootstrap`` ``Git``
 
@@ -53,7 +53,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 ``Blender`` ``Aseprite`` ``Krita`` ``Photoshop Mix`` ``Paint`` ``Canva``
 
 ### the ones I am learning/have the basics
-``C/C++`` ``JavaScript`` ``SCSS`` ``Assembly``
+``C/C++`` ``SCSS`` ``Assembly``
  
 ``ADO Entity Framework`` ``Maven`` 
 
