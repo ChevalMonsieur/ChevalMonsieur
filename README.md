@@ -1,5 +1,5 @@
 # About Me
-![visitors](https://vbr.wocr.tk/badge?page_id=ChevalMonsieur.ChevalMonsieur&color=00cf00) <br> <br>
+<!-- ![visitors](https://vbr.wocr.tk/badge?page_id=ChevalMonsieur.ChevalMonsieur&color=00cf00) <br> <br> -->
 👋 Hey people, My name is Justin Hurson, even if Github knows me as ``ChevalMonsieur``. I'm a student in computer science at the <i>IUT de Bordeaux</i> (France),
 where I'm in 2nd year of a bachelor's degree. 
 <br><br>💻 I work a lot on solo projects, that turn out very frequently to be ``game dev`` or ``generative art`` projects. At the moment, I have 2 projects on the table, a spaceship and a car game.
