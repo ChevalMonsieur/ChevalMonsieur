@@ -1,11 +1,10 @@
 # About Me
 <!-- ![visitors](https://vbr.wocr.tk/badge?page_id=ChevalMonsieur.ChevalMonsieur&color=00cf00) <br> <br> -->
 👋 Hey people, My name is Justin Hurson, even if Github knows me as ``ChevalMonsieur``. I'm a student in computer science at the <i>IUT de Bordeaux</i> (France),
-where I'm in 2nd year of a bachelor's degree. 
-<br><br>💻 I work a lot on solo projects, that turn out very frequently to be ``game dev`` or ``generative art`` projects. At the moment, I have 2 projects on the table, a spaceship and a car game.
+where I'm in 3rd and last year of  bachelor's degree. 
+<br><br>💻 I work a lot on solo projects, that turn out very frequently to be ``game dev`` or ``website`` projects.
 If you want to see what I do, have a look at my <a href="https://mrcheval.itch.io" target="_blank"> <b>Itch.io</b></a> page to test some of the games I create in my free time.
-<br><br>🌍I am currently looking for an ``internship`` abroad of 8 to 10 weeks, the countries where I would love to make my internship are the <b>USA</b>, <b>Canada</b> and <b>Australia</b>.
-An internship in <b>Japan</b> would also be great but I can only speak English.
+<br><br> 🌍 I am currently looking for a ``job``.
 <br><br> 📫 Feel free to contact me (bottom page) if ever you feel interested in taking me in your company, or for any other reason !
 
 <br><br>
@@ -48,7 +47,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 
 ``.NET`` ``WinForms`` ``Bootstrap`` ``Git``
 
-``Unity`` ``Github/Gitlab`` ``VS/VS Code`` ``SublimeText`` ``NetBeans`` ``Scratch (I'm for real)``
+``Unity`` ``Github/Gitlab`` ``VS/VS Code`` ``SublimeText`` ``NetBeans`` ``Scratch (I'm for real)`` ``Godot``
 
 ``Blender`` ``Aseprite`` ``Krita`` ``Photoshop Mix`` ``Paint`` ``Canva``
 
@@ -57,7 +56,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
  
 ``ADO Entity Framework`` ``Maven`` 
 
-``UMLet`` ``Unreal Engine`` ``Godot`` 
+``UMLet`` ``Unreal Engine`` 
 
 ``Gimp`` ``Adobe Illustrator`` ``Pixlr``
 
@@ -73,7 +72,7 @@ An internship in <b>Japan</b> would also be great but I can only speak English.
 ### You can contact me on :
 Linkedin : <a href="https://www.linkedin.com/in/justin-hurson-0794b1253/"> Justin HURSON </a>
 
-Instagram : <a href="https://www.instagram.com/cheval_monsieur/"> cheval_monsieur
+Instagram : <a href="https://lx-xl.fr/"> cheval_monsieur
 
 Mail : <a href="mailto:just.1et2mii@gmail.com"> just.1et2mii@gmail.com </a>
 
