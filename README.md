@@ -72,7 +72,7 @@ If you want to see what I do, have a look at my <a href="https://mrcheval.itch.i
 ### You can contact me on :
 Linkedin : <a href="https://www.linkedin.com/in/justin-hurson-0794b1253/"> Justin HURSON </a>
 
-Instagram : <a href="https://lx-xl.fr/"> cheval_monsieur
+Instagram : <a href="https://www.instagram.com/cheval_monsieur"> cheval_monsieur
 
 Mail : <a href="mailto:just.1et2mii@gmail.com"> just.1et2mii@gmail.com </a>
 
@@ -80,7 +80,7 @@ Discord : mr_cheval
 
 
 ### My projects are on :
-Portfolio : https://chevalmonsieur.github.io
+Portfolio : https://lx-xl.fr
 
 Github : https://github.com/ChevalMonsieur
 
